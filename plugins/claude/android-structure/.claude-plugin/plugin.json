@@ -1,0 +1,17 @@
+{
+  "name": "android-structure",
+  "version": "1.0.0",
+  "description": "Generates Android Clean Architecture structure and boilerplate code using Kotlin, structured UI using Jetpack Compose, and optimized logic for performance.",
+  "author": {
+    "name": "Anas Altair"
+  },
+  "repository": "https://github.com/anastr/android-structure",
+  "license": "Apache 2.0",
+  "keywords": [
+    "Android",
+    "Structure",
+    "Clean-Architecture",
+    "UI",
+    "Optimization"
+  ]
+}
