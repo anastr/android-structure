@@ -1,0 +1,17 @@
+{
+  "name": "android-structure",
+  "owner": {
+    "name": "Anas Altair"
+  },
+  "plugins": [
+    {
+      "name": "android-structure",
+      "source": "./plugins/claude/android-structure",
+      "description": "Generates Android Clean Architecture structure and boilerplate code using Kotlin, structured UI using Jetpack Compose, and optimized logic for performance.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anas Altair"
+      }
+    }
+  ]
+}
