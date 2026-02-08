@@ -71,9 +71,11 @@ flowchart LR
 
 Install the plugin using Claude Code CLI:
 
+First, add the plugin to marketplace:
 ```bash
-claude plugin add https://github.com/anastr/android-structure
+/plugin marketplace add https://github.com/anastr/android-structure
 ```
+Then run `/plugin` and search for `android-structure` to add it to your project.
 
 ## Skills
 
